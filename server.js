@@ -1,5 +1,8 @@
 const http = require("http");
 // comment 1
+// comment 2
+
+>>>>>>> 08bc191 (server.js commented 3)
 const host = 'localhost';
 const port = 8000;
 
